@@ -1,5 +1,8 @@
 # blog
 
+this a video to show the website
+https://cdn.hazemmeqdad.com/f/2024-01-05%2020-57-19.mp4
+
 ## Setup
 ### setup venv
 ```shell
