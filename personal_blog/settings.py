@@ -55,6 +55,9 @@ ROOT_URLCONF = 'personal_blog.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        "DIRS": [
+            BASE_DIR / "templates/",
+        ],
         'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
